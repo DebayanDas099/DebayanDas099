@@ -4,7 +4,7 @@ Hi, I'm Debayan Das 👋
 
 I design and ship enterprise-grade, cloud-native systems where robust .NET engineering meets agentic AI, all on Microsoft Azure.
 
-<p> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://komarev.com/ghpvc/?username=DebayanDas099&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"> </p> </div>
+<p> <a href="https://www.linkedin.com/in/debayan-das-349282a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://komarev.com/ghpvc/?username=DebayanDas099&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"> </p> </div>
 🧭 About Me
 🏗️ Solution Architect: I turn business problems into scalable, secure, cloud-native architectures on Azure.
 🤖 AI Engineer: I build and deploy agentic AI systems in .NET (multi-agent workflows, RAG, tool-using agents) for enterprise clients.
